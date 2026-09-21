@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bale_session.json
+.env
+venv/
+.venv/
